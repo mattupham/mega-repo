@@ -1,0 +1,19 @@
+{
+  "name": "mega-repo",
+  "version": "1.0.0",
+  "description": "All of the projects from @mattupham's social media accounts!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattupham/mega-repo.git"
+  },
+  "author": "Matt Upham @mattupham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattupham/mega-repo/issues"
+  },
+  "homepage": "https://github.com/mattupham/mega-repo#readme"
+}
